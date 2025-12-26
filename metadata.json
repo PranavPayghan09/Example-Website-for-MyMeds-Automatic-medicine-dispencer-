@@ -1,0 +1,5 @@
+{
+  "name": "MyMeds Dashboard",
+  "description": "A comprehensive remote health dashboard for the MyMeds Smart Medicine Dispenser project, allowing caregivers and patients to manage schedules, monitor adherence, and analyze medical compliance in real-time.",
+  "requestFramePermissions": []
+}
